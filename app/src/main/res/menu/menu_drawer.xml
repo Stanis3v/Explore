@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_find"
+            android:icon="@drawable/ic_nav_search"
+            android:title="@string/str_nav_find"
+            android:checked="true"/>
+        <item
+            android:id="@+id/nav_direction"
+            android:icon="@drawable/ic_nav_direction"
+            android:title="@string/str_nav_direction" />
+        <item
+            android:id="@+id/nav_around"
+            android:icon="@drawable/ic_nav_around"
+            android:title="@string/str_nav_around_me" />
+        <item
+            android:id="@+id/nav_favorites"
+            android:icon="@drawable/ic_nav_favorites"
+            android:title="@string/str_nav_favorites"
+            app:actionLayout="@layout/menu_counter"/>
+    </group>
+
+    <item android:title="@string/sub_title_nav_others">
+        <menu>
+            <item
+                android:id="@+id/nav_setting"
+                android:icon="@drawable/ic_nav_setting"
+                android:title="@string/str_nav_setting" />
+
+
+
+            <item
+                android:id="@+id/nav_more_app"
+                android:icon="@drawable/ic_nav_more_apps"
+                android:title="@string/str_nav_more_apps" />
+
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@drawable/ic_nav_about"
+                android:title="@string/str_nav_about" />
+        </menu>
+    </item>
+
+</menu>

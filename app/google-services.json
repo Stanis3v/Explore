@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "393413366522",
+    "project_id": "glass-setting-302220",
+    "storage_bucket": "glass-setting-302220.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393413366522:android:7fdebe26e4640fdb7cef43",
+        "android_client_info": {
+          "package_name": "com.app.WROHiking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393413366522-cmum4fpgfp48bcd908jrs9fail2rdui7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqrvss-_OmBz6LhSvQ31Uxauaz5_pRuxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393413366522-cmum4fpgfp48bcd908jrs9fail2rdui7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393413366522:android:e9930a951bfaa4c67cef43",
+        "android_client_info": {
+          "package_name": "com.app.explore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393413366522-cmum4fpgfp48bcd908jrs9fail2rdui7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqrvss-_OmBz6LhSvQ31Uxauaz5_pRuxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393413366522-cmum4fpgfp48bcd908jrs9fail2rdui7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
