@@ -2,11 +2,11 @@ apply plugin: 'com.android.application'
 apply plugin: 'realm-android'
 
 android {
-    compileSdkVersion 28
+    compileSdkVersion 30
     defaultConfig {
         applicationId "com.app.explore"
         minSdkVersion 16
-        targetSdkVersion 28
+        targetSdkVersion 30
         versionCode 210
         versionName "2.1"
         multiDexEnabled true
